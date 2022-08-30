@@ -1,2 +1,2 @@
 # test_python
-Introduccion a Python, en 100 dias intentare codificar y aprender con diversas tareas y ejercios, las funciones basicas de Python. I can do it!
+Introduccion a Python. En 100 dias intentare codificar y aprender las funciones basicas de Python con diversas tareas y ejercios. I can do it!
